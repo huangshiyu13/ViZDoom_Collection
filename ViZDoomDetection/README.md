@@ -1,4 +1,4 @@
-ViZDoomDepth
+ViZDoomDetection
 ==========
 This repository is for object detection for ViZDoom.
 
